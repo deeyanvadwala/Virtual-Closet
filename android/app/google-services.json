@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065669630772",
+    "project_id": "virtual-closet-4635a",
+    "storage_bucket": "virtual-closet-4635a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065669630772:android:f4945480c1cdd725c92361",
+        "android_client_info": {
+          "package_name": "com.example.vc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy9ZjRX_e3S8GZL8G10eKaouJsiYcGLuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
